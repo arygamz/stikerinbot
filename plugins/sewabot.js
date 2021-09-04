@@ -25,8 +25,8 @@ let handler = async m => m.reply(`
 ❒ *Bisa Memasukkan Bot Ke dalam Grup*
 
 ◪ *Jika Minat Hubungi owner kami*
-◪ *Atau Masuk Group Official Bot*
-_http://bit.ly/Grupgabutbotv1_
+
+
 
 Ingin Jadi Bot Seperti ini?
 ketik #jadibot
